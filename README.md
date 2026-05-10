@@ -2,7 +2,7 @@
 
 **Bidirectional LLM-matched pairs between the Japanese Standard Tables of Food Composition 2020 (8th edition) and the USDA FoodData Central**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20103327.svg)](https://doi.org/10.5281/zenodo.20103327)
 
 ---
 
@@ -114,7 +114,7 @@ If you use this correspondence table, please cite:
 
 For the dataset itself:
 
-> Nakagawa S, Yamamoto A. Japan–US Food Composition Correspondence Table, Version 0.1. Zenodo. 2026. https://doi.org/10.5281/zenodo.xxxxxxx
+> Nakagawa S, Yamamoto A. Japan–US Food Composition Correspondence Table, Version 0.1. Zenodo. 2026. https://doi.org/10.5281/zenodo.20103327
 
 ---
 
